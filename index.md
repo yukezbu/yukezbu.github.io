@@ -18,7 +18,7 @@ My name is Yuke Zhang. I am currently a first-year PhD student in Computing and 
 - BA in Data Sciences
 
 
-## Featured Event
+## Featured Events
 - American Geophysical Union(AGU) Fall Meeting Poster (Dec 2022)
 - Midwest Climate Workshop (Sep 2022)
 - Summer Undergraduate Research Symposium talk (Jul 2022)
