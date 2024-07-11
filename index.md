@@ -10,9 +10,10 @@ My name is Yuke Zhang. I am currently a first-year PhD student in Computing and 
 
 
 ## Education
-Boston Universty (Boston, MA)
+**Boston Universty** (Boston, MA)
 - Pursuing the PhD in Computing & Data Sciences
-Purdue University (West Lafayette, IN)
+  
+**Purdue University** (West Lafayette, IN)
 - BA in Mathematics
 - BA in Data Sciences
 
