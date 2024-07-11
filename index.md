@@ -17,7 +17,6 @@ My name is Yuke Zhang. I am currently a first-year PhD student in Computing and 
 - BA in Mathematics
 - BA in Data Sciences
 
-## Research Interest
 
 ## Featured Event
 - American Geophysical Union(AGU) Fall Meeting Poster (Dec 2022)
