@@ -14,8 +14,8 @@ My name is Yuke Zhang. I am currently a first-year PhD student in Computing and 
 - Pursuing the PhD in Computing & Data Sciences
   
 **Purdue University** (West Lafayette, IN)
-- BA in Mathematics
-- BA in Data Sciences
+- BS in Mathematics
+- BS in Data Sciences
 
 
 ## Featured Events
