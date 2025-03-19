@@ -7,18 +7,6 @@
   </article>
 {% endfor %}
 
-<header>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-K5TEK099YZ"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'G-K5TEK099YZ');
-  </script>
-<header>
-
 {% if paginator.total_pages > 1 %}
   <footer>
     {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">« newer posts</a>{% else %}<span></span>{% endif %}
