@@ -1,6 +1,9 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TAG"></script>
 <script>
-  window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
-  ga('create', '', 'auto');
-  ga('send', 'pageview');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  <!-- end custom analytics snippet -->
+  gtag('config', YOUR_TAG');
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
