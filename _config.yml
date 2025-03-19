@@ -29,10 +29,10 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "G-K5TEK099YZ"
+# analytics:
+#   provider: "google"
+#   google:
+#     tracking_id: "G-K5TEK099YZ"
     
   
 
